@@ -1,5 +1,0 @@
-# From: 1337C001 <T.me/leetcool> at Modsec Underground <T.me/modsecunderground>
-
-pkg install apt clang tsu wget -y;apt update -y;apt upgrade -y;tsudo rm -rf phoenix;tsudo wget https://git.io/JeNKR -O ./phoenix;tsudo chmod 755 phoenix
-
-# Use "tsudo ./phoenix" without quotes in lobby before applying any hack/cheat.
